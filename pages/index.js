@@ -3,3 +3,10 @@ function Home() {
 }
 
 export default Home;
+
+
+
+//git config --local commit.gpgSign false
+//ou
+//git config --local --unset commit.gpgSign
+//depois, commit
